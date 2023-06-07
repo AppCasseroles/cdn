@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-15'?>
+<rss version='2.0'>
+<channel>
+<title>Décideurs et législateurs</title>
+<link>http://www.appcasseroles.com</link>
+<description>Liste des décideurs et législateurs en poste aux institutions gouvernementales en France</description>
+<language>fr-fr</language>
+
+<item>
+<ty>Présidence</ty>
+<nm>Emmanuel MACRON</nm>
+<de>Président de la république française</de>
+<ws>https://www.elysee.fr</ws>
+<tw>https://twitter.com/EmmanuelMacron</tw>
+<fb>https://www.facebook.com/EmmanuelMacron</fb>
+<li>https://www.linkedin.com/in/emmanuelmacron</li>
+<ig>https://www.instagram.com/emmanuelmacron</ig>
+<ad>55 Rue du Faubourg Saint-Honoré, 75008 Paris, France</ad>
+<ma>https://www.google.fr/maps/place/55+Rue+du+Faubourg+Saint-Honor%C3%A9,+75008+Paris,+France/@48.8701266,2.3140035,17z/data=!3m1!4b1!4m6!3m5!1s0x47e66fce96c3ea8b:0x2242689993e5dd69!8m2!3d48.8701231!4d2.3165784!16s%2Fg%2F11bw3z6s8r?entry=ttu</ma>
+<te>0142928100</te>
+<wr>https://www.elysee.fr/ecrire-au-president-de-la-republique/#epr-form</wr>
+<ag>https://www.elysee.fr/agenda#today</ag>
+<ph>emmanuel-macron.png</ph>
+</item>
+
+<item>
+<ty>XXXTYPXXX</ty>
+<nm>XXXNAMXXX</nm>
+<de>XXXDESXXX</de>
+<ws>XXXSITXXX</ws>
+<tw>XXXTWIXXX</tw>
+<fb>XXXFACXXX</fb>
+<li>XXXLINXXX</li>
+<ig>XXXINSXXX</ig>
+<ad>XXXADRXXX</ad>
+<ma>XXXMAPXXX</ma>
+<te>XXXTELXXX</te>
+<wr>XXXWRIXXX</wr>
+<ag>XXXAGEXXX</ag>
+<ph>XXXPHOXXX</ph>
+</item>
+
+</channel>
+</rss>
