@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="viewport" content="width=device-width" /><title>https://www.senat.fr/rss/rapports.rss</title><link rel="stylesheet" type="text/css" href="resource://content-accessible/viewsource.css" /></head><body id="viewsource" class="highlight" style="tab-size: 4"><pre id="line1"><span></span><span class="pi">&lt;?xml version='1.0' encoding='iso-8859-15'?&gt;</span><span>
+<span id="line2"></span></span><span>&lt;<span class="start-tag">rss</span> <span class="attribute-name">version</span>='<a class="attribute-value">2.0</a>'&gt;</span><span>
+<span id="line3"></span> </span><span>&lt;<span class="start-tag">channel</span>&gt;</span><span>
+<span id="line4"></span>  </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Sénat - derniers rapports</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line5"></span>  </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line6"></span>  </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Les derniers rapports et documents de travail  publiés par le Sénat français</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line7"></span>  </span><span>&lt;<span class="start-tag">language</span>&gt;</span><span>fr-fr</span><span>&lt;/<span class="end-tag">language</span>&gt;</span><span>
+<span id="line8"></span>
+<span id="line9"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line10"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Établissements de spectacles cinématographiques dans les outre-mer - rapport n° 701</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line11"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed,07 Jun 2023 15:59:44 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line12"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 701 de Mme Sylvie ROBERT, fait au nom de la commission de la culture, de l'éducation et de la communication, sur la proposition de loi visant à assurer la pérennité des établissements de spectacles cinématographiques et l'accès au cinéma dans les outre-mer (7 juin 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line13"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-701/l22-701.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line14"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-701/l22-701.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line15"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line16"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line17"></span>
+<span id="line18"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line19"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Protection des mineurs et honorabilité dans le sport - rapport n° 699</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line20"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed,07 Jun 2023 15:59:44 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line21"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 699 de M. Jean-Jacques LOZACH, fait au nom de la commission de la culture, de l'éducation et de la communication, sur la proposition de loi visant à renforcer la protection des mineurs et l'honorabilité dans le sport (7 juin 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line22"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-699/l22-699.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line23"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-699/l22-699.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line24"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line25"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line26"></span>
+<span id="line27"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line28"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Respect du droit à l'image des enfants - rapport n° 674</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line29"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed,07 Jun 2023 15:59:44 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line30"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 674 de Mme Valérie BOYER, sénatrice et M. Bruno STUDER, député, fait au nom de la commission mixte paritaire, sur la proposition de loi visant à garantir le respect du droit à l'image des enfants (1er juin 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line31"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-674/l22-674.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line32"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-674/l22-674.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line33"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line34"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line35"></span>
+<span id="line36"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line37"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Les impensés de la LPM : préparation opérationnelle, disponibilité des équipements et évolutions du soutien - rapport d'information n° 709</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line38"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed,07 Jun 2023 15:22:25 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line39"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport d'information n° 709 de M. Olivier CIGOLOTTI et Mme Michelle GRÉAUME, fait au nom de la commission des affaires étrangères, de la défense et des forces armées : Les impensés de la LPM : préparation opérationnelle, disponibilité des équipements et évolutions du soutien (7 juin 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line40"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-709-notice.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line41"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-709-notice.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line42"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport d'information</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line43"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line44"></span>
+<span id="line45"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line46"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Une LPM qui laisse de nombreux enjeux capacitaires en suspens - rapport d'information n° 707</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line47"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed,07 Jun 2023 15:19:53 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line48"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport d'information n° 707 de M. Cédric PERRIN et Mme Hélène CONWAY-MOURET, fait au nom de la commission des affaires étrangères, de la défense et des forces armées : Une LPM qui laisse de nombreux enjeux capacitaires en suspens (7 juin 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line49"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-707-notice.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line50"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-707-notice.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line51"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport d'information</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line52"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line53"></span>
+<span id="line54"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line55"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Réforme de l'audiovisuel public - rapport n° 693</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line56"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed,07 Jun 2023 14:59:46 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line57"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 693 de M. Jean-Raymond HUGONET, fait au nom de la commission de la culture, de l'éducation et de la communication, sur la proposition de loi relative à la réforme de l'audiovisuel public et à la souveraineté audiovisuelle (7 juin 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line58"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-693/l22-693.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line59"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-693/l22-693.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line60"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line61"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line62"></span>
+<span id="line63"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line64"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Application de la loi n° 2021-1539 du 30 novembre 2021 visant à lutter contre la maltraitance animale et conforter le lien entre les animaux et les hommes - rapport d'information n° 686</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line65"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed,07 Jun 2023 12:51:56 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line66"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport d'information n° 686 de Mme Anne CHAIN-LARCHÉ, fait au nom de la commission des affaires économiques : Application de la loi n° 2021-1539 du 30 novembre 2021 visant à lutter contre la maltraitance animale et conforter le lien entre les animaux et les hommes (7 juin 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line67"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-686-notice.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line68"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-686-notice.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line69"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport d'information</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line70"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line71"></span>
+<span id="line72"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line73"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Renseignement et prospective : garder un temps d'avance, conserver une industrie de défense solide et innovante - rapport d'information n° 637</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line74"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Tue,06 Jun 2023 15:11:51 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line75"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport d'information n° 637 de MM. Pascal ALLIZARD et Yannick VAUGRENARD, fait au nom de la commission des affaires étrangères, de la défense et des forces armées : Renseignement et prospective : garder un temps d'avance, conserver une industrie de défense solide et innovante (24 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line76"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-637-notice.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line77"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-637-notice.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line78"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport d'information</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line79"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line80"></span>
+<span id="line81"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line82"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Indices locatifs - rapport n° 681</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line83"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Tue,06 Jun 2023 14:34:50 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line84"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 681 de Mme Dominique ESTROSI SASSONE, fait au nom de la commission des affaires économiques, sur la proposition de loi maintenant provisoirement un dispositif de plafonnement de revalorisation de la variation annuelle des indices locatifs (6 juin 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line85"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-681/l22-681.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line86"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-681/l22-681.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line87"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line88"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line89"></span>
+<span id="line90"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line91"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Le vieillissement de la population en Martinique - rapport d'information n° 658</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line92"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri,02 Jun 2023 18:21:20 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line93"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport d'information n° 658 de Mmes Catherine DEROCHE, Corinne FÉRET, Jocelyne GUIDEZ, Colette MÉLOT et M. Philippe MOUILLER, fait au nom de la commission des affaires sociales : Le vieillissement de la population en Martinique (31 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line94"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-658-notice.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line95"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-658-notice.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line96"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport d'information</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line97"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line98"></span>
+<span id="line99"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line100"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Orientation et programmation du ministère de la justice 2023-2027 - rapport n° 660</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line101"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri,02 Jun 2023 18:08:42 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line102"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 660 de Mmes Agnès CANAYER et Dominique VÉRIEN, fait au nom de la commission des lois constitutionnelles, de législation, du suffrage universel, du Règlement et d'administration générale, sur le projet de loi d'orientation et de programmation du ministère de la justice 2023-2027 et  sur le projet de loi organique relatif à l'ouverture, la modernisation et la responsabilité du corps judiciaire (31 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line103"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-660/l22-660.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line104"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-660/l22-660.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line105"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line106"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line107"></span>
+<span id="line108"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line109"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Les troubles du neuro-développement - rapport d'information n° 659</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line110"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri,02 Jun 2023 15:32:20 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line111"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport d'information n° 659 de Mme Jocelyne GUIDEZ, M. Laurent BURGOA et Mme Corinne FÉRET, fait au nom de la commission des affaires sociales : Les troubles du neuro-développement (31 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line112"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-659-notice.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line113"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-659-notice.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line114"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport d'information</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line115"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line116"></span>
+<span id="line117"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line118"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Reconnaissance biométrique - rapport n° 663</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line119"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri,02 Jun 2023 14:04:12 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line120"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 663 de M. Philippe BAS, fait au nom de la commission des lois constitutionnelles, de législation, du suffrage universel, du Règlement et d'administration générale, sur la proposition de loi relative à la reconnaissance biométrique dans l'espace public (31 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line121"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-663/l22-663.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line122"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-663/l22-663.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line123"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line124"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line125"></span>
+<span id="line126"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line127"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Protection de la filière pêche française - rapport n° 655</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line128"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri,02 Jun 2023 10:40:19 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line129"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 655 de M. Alain CADEC, fait au nom de la commission des affaires économiques, sur la proposition de résolution en application de l'article 73 quinquies du Règlement, relative à la protection de la filière pêche française et aux mesures préconisées dans le cadre du « Plan d'action pour le milieu marin » présenté le 21 février 2023 par la Commission européenne (31 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line130"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-655/l22-655.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line131"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-655/l22-655.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line132"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line133"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line134"></span>
+<span id="line135"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line136"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Sur la proposition de règlement du Parlement européen et du Conseil fixant des règles harmonisées pour l'équité de l'accès aux données et de l'utilisation des données (règlement sur les données) COM(2022) 68 final - rapport d'information n° 597</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line137"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri,02 Jun 2023 09:28:40 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line138"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport d'information n° 597 de Mme Florence BLATRIX CONTAT, M. André GATTOLIN et Mme Catherine MORIN-DESAILLY, fait au nom de la commission des affaires européennes : sur la proposition de règlement du Parlement européen et du Conseil fixant des règles harmonisées pour l'équité de l'accès aux données et de l'utilisation des données (règlement sur les données) COM(2022) 68 final (11 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line139"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-597-notice.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line140"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-597-notice.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line141"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport d'information</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line142"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line143"></span>
+<span id="line144"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line145"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Protection de la filière pêche française - rapport n° 633</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line146"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu,01 Jun 2023 13:49:41 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line147"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 633 de M. Alain CADEC, fait au nom de la commission des affaires européennes, sur la proposition de résolution en application de l'article 73 quinquies du Règlement, relative à la protection de la filière pêche française et aux mesures préconisées dans le cadre du « Plan d'action pour le milieu marin » présenté le 21 février 2023 par la Commission européenne (24 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line148"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-633/l22-633.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line149"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-633/l22-633.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line150"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line151"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line152"></span>
+<span id="line153"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line154"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Influenceurs sur les réseaux sociaux - rapport n° 643</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line155"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Sat,27 May 2023 00:03:38 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line156"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 643 de Mme Amel GACQUERRE, sénatrice, MM. Arthur DELAPORTE, député et Stéphane VOJETTA, député, fait au nom de la commission mixte paritaire, sur la proposition de loi visant à encadrer l'influence commerciale et à lutter contre les dérives des influenceurs sur les réseaux sociaux (25 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line157"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-643/l22-643.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line158"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-643/l22-643.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line159"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line160"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line161"></span>
+<span id="line162"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line163"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Relance du nucléaire : adapter les moyens de L'Institut de radioprotection et de sûreté nucléaire (IRSN) - rapport d'information n° 629</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line164"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri,26 May 2023 16:03:47 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line165"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport d'information n° 629 de M. Jean-François RAPIN, fait au nom de la commission des finances : Relance du nucléaire : adapter les moyens de L'Institut de radioprotection et de sûreté nucléaire (IRSN) (24 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line166"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-629-notice.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line167"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-629-notice.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line168"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport d'information</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line169"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line170"></span>
+<span id="line171"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line172"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Bourses d'études et parent en situation de handicap - rapport n° 639</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line173"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri,26 May 2023 15:54:05 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line174"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 639 de Mme Toine BOURRAT, fait au nom de la commission de la culture, de l'éducation et de la communication, sur la proposition de loi visant à verser automatiquement une bourse d'études (échelon 7) aux étudiants dont au moins l'un des deux parents est porteur d'un handicap (dont le taux d'incapacité est supérieur à 80 %) (25 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line175"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-639/l22-639.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line176"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-639/l22-639.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line177"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line178"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line179"></span>
+<span id="line180"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line181"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Reconnaître et soutenir les entrepreneurs français à l'étranger - rapport n° 631</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line182"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri,26 May 2023 15:43:26 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line183"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 631 de M. Serge BABARY, fait au nom de la commission des affaires économiques, sur la proposition de loi visant à reconnaître et à soutenir les entrepreneurs français à l'étranger (24 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line184"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-631/l22-631.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line185"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-631/l22-631.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line186"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line187"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line188"></span>
+<span id="line189"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line190"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Les enjeux scientifiques du traité international visant à mettre un terme à la pollution plastique - rapport n° 641</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line191"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri,26 May 2023 13:41:55 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line192"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 641 de Mme Angèle PRÉVILLE, sénatrice et M. Philippe BOLO, député, fait au nom de l'Office parlementaire d'évaluation des choix scientifiques et technologiques : Les enjeux scientifiques du traité international visant à mettre un terme à la pollution plastique (25 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line193"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-641-notice.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line194"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-641-notice.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line195"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line196"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line197"></span>
+<span id="line198"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line199"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Bilan annuel de l'application des lois au 31 mars 2023 - rapport d'information n° 636</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line200"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri,26 May 2023 09:27:10 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line201"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport d'information n° 636 de Mme Pascale GRUNY, président de la délégation du Bureau en charge du travail parlementaire, du contrôle et du suivi des ordonnances : Bilan annuel de l'application des lois au 31 mars 2023 (24 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line202"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-636-notice.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line203"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-636-notice.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line204"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport d'information</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line205"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line206"></span>
+<span id="line207"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line208"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Les comptes du Sénat de l'exercice 2022 - rapport d'information n° 608</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line209"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu,25 May 2023 15:30:44 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line210"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport d'information n° 608 de M. Éric JEANSANNETAS, fait au nom de la commission spéciale chargée du contrôle des comptes et de l'évaluation interne : Les comptes du Sénat de l'exercice 2022 (16 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line211"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-608-notice.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line212"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-608-notice.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line213"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport d'information</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line214"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line215"></span>
+<span id="line216"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line217"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Le cinéma contre-attaque : entre résilience et exception culturelle, un art majeur qui a de l'avenir - rapport d'information n° 630</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line218"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed,24 May 2023 17:02:20 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line219"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport d'information n° 630 de Mmes Céline BOULAY-ESPÉRONNIER, Sonia de LA PROVÔTÉ et M. Jérémy BACCHI, fait au nom de la commission de la culture, de l'éducation et de la communication : Le cinéma contre-attaque : entre résilience et exception culturelle, un art majeur qui a de l'avenir (24 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line220"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-630-notice.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line221"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-630-notice.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line222"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport d'information</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line223"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line224"></span>
+<span id="line225"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line226"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Financement public du cinéma - rapport d'information n° 610</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line227"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Mon,22 May 2023 16:44:59 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line228"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport d'information n° 610 de M. Roger KAROUTCHI, fait au nom de la commission des finances : Financement public du cinéma (17 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line229"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-610-notice.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line230"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-610-notice.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line231"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport d'information</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line232"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line233"></span>
+<span id="line234"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line235"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Accord France-Andorre - rapport n° 620</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line236"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Mon,22 May 2023 12:47:14 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line237"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 620 de M. Olivier CADIC, fait au nom de la commission des affaires étrangères, de la défense et des forces armées, sur le projet de loi autorisant l'approbation de l'accord entre la France et la Principauté d'Andorre concernant l'amélioration de la résilience climatique et de la viabilité des routes nationales 116, 20, 320 et 22 (17 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line238"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-620/l22-620.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line239"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-620/l22-620.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line240"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line241"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line242"></span>
+<span id="line243"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line244"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Transport par mer de substances nocives - rapport n° 616</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line245"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Mon,22 May 2023 12:46:06 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line246"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 616 de Mme Marie-Arlette CARLOTTI, fait au nom de la commission des affaires étrangères, de la défense et des forces armées, sur le projet de loi autorisant la ratification du Protocole du 30 avril 2010 à la Convention internationale de 1996 sur la responsabilité et l'indemnisation pour les dommages liés au transport par mer de substances nocives et potentiellement dangereuses (17 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line247"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-616/l22-616.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line248"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-616/l22-616.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line249"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line250"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line251"></span>
+<span id="line252"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line253"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Conventions France-Sénégal - rapport n° 618</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line254"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Mon,22 May 2023 09:55:57 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line255"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 618 de M. Philippe FOLLIOT, fait au nom de la commission des affaires étrangères, de la défense et des forces armées, sur le projet de loi autorisant l'approbation de la convention d'entraide judiciaire en matière pénale entre la France et le Sénégal et de la convention d'extradition entre la France et le Sénégal (17 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line256"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-618/l22-618.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line257"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-618/l22-618.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line258"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line259"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line260"></span>
+<span id="line261"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line262"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Douane - rapport n° 614</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line263"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri,19 May 2023 19:39:13 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line264"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 614 de M. Albéric de MONTGOLFIER, fait au nom de la commission des finances, sur le projet de loi visant à donner à la douane les moyens de faire face aux nouvelles menaces (17 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line265"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-614/l22-614.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line266"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-614/l22-614.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line267"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line268"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line269"></span>
+<span id="line270"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line271"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Douane - avis n° 613</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line272"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed,17 May 2023 16:52:03 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line273"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Avis n° 613 de M. Alain RICHARD, fait au nom de la commission des lois constitutionnelles, de législation, du suffrage universel, du Règlement et d'administration générale, sur le projet de loi visant à donner à la douane les moyens de faire face aux nouvelles menaces (17 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line274"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/a22-613/a22-613.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line275"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/a22-613/a22-613.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line276"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Avis</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line277"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line278"></span>
+<span id="line279"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line280"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Biens culturels spoliés entre 1933 et 1945 - rapport n° 611</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line281"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed,17 May 2023 16:52:03 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line282"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 611 de Mme Béatrice GOSSELIN, fait au nom de la commission de la culture, de l'éducation et de la communication, sur le projet de loi relatif à la restitution des biens culturels ayant fait l'objet de spoliations dans le contexte des persécutions antisémites perpétrées entre 1933 et 1945 (17 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line283"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-611/l22-611.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line284"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-611/l22-611.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line285"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line286"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line287"></span>
+<span id="line288"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line289"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Conventions France-Sénégal et France-Sri Lanka - rapport n° 591</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line290"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Mon,15 May 2023 08:57:17 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line291"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 591 de Mme Gisèle JOURDA, fait au nom de la commission des affaires étrangères, de la défense et des forces armées, sur le projet de loi autorisant l'approbation d'accords entre la France et le Sénégal et entre la France et le Sri Lanka (10 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line292"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-591/l22-591.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line293"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-591/l22-591.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line294"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line295"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line296"></span>
+<span id="line297"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line298"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Ferme France - rapport n° 589</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line299"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri,12 May 2023 14:47:45 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line300"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 589 de Mme Sophie PRIMAS, fait au nom de la commission des affaires économiques, sur la proposition de loi pour un choc de compétitivité en faveur de la ferme France (10 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line301"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-589/l22-589.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line302"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-589/l22-589.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line303"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line304"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line305"></span>
+<span id="line306"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line307"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Octroi des prérogatives d'une commission d'enquête - rapport n° 586</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line308"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri,12 May 2023 14:47:45 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line309"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 586 de M. François-Noël BUFFET, fait au nom de la commission des lois constitutionnelles, de législation, du suffrage universel, du Règlement et d'administration générale, sur la demande d'attribution des prérogatives d'une commission d'enquête sur la création du Fonds Marianne, la sélection des projets et l'attribution des subventions, le contrôle de leur exécution et les résultats obtenus au regard des objectifs du fonds (10 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line310"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-586/l22-586.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line311"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-586/l22-586.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line312"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line313"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line314"></span>
+<span id="line315"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line316"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Ouvertures de casinos - rapport n° 584</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line317"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri,12 May 2023 14:41:01 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line318"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 584 de M. François BONHOMME, fait au nom de la commission des lois constitutionnelles, de législation, du suffrage universel, du Règlement et d'administration générale, sur la proposition de loi visant à réduire les inégalités territoriales pour les ouvertures de casinos (10 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line319"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-584/l22-584.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line320"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-584/l22-584.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line321"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line322"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line323"></span>
+<span id="line324"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line325"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Instaurer une majorité numérique - rapport n° 587</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line326"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed,10 May 2023 12:27:44 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line327"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport n° 587 de Mme Alexandra BORCHIO FONTIMP, fait au nom de la commission de la culture, de l'éducation et de la communication, sur la proposition de loi visant à instaurer une majorité numérique et à lutter contre la haine en ligne (10 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line328"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/rap/l22-587/l22-587.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line329"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/rap/l22-587/l22-587.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line330"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line331"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line332"></span>
+<span id="line333"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line334"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Femmes et ruralités : la parole aux élues de nos territoires - rapport d'information n° 574</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line335"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Tue,09 May 2023 12:59:44 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line336"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport d'information n° 574 de Mme Annick BILLON, fait au nom de la délégation aux droits des femmes et à l'égalité des chances entre les hommes et les femmes : Femmes et ruralités : la parole aux élues de nos territoires (4 mai 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line337"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-574-notice.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line338"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-574-notice.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line339"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport d'information</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line340"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line341"></span>
+<span id="line342"></span>   </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line343"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>L'évolution institutionnelle des outre-mer - rapport d'information n° 361</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line344"></span>    </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Tue,09 May 2023 09:42:14 GMT</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line345"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Rapport d'information n° 361 de M. Stéphane ARTANO et Mme Micheline JACQUES, fait au nom de la délégation sénatoriale aux outre-mer : L'évolution institutionnelle des outre-mer (16 février 2023)</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line346"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-361-notice.html</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line347"></span>    </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>http://www.senat.fr/notice-rapport/2022/r22-361-notice.html</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line348"></span>    </span><span>&lt;<span class="start-tag">category</span>&gt;</span><span>Rapport d'information</span><span>&lt;/<span class="end-tag">category</span>&gt;</span><span>
+<span id="line349"></span>   </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line350"></span>
+<span id="line351"></span> </span><span>&lt;/<span class="end-tag">channel</span>&gt;</span><span>
+<span id="line352"></span></span><span>&lt;/<span class="end-tag">rss</span>&gt;</span><span></span></pre></body></html>
